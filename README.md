@@ -81,8 +81,6 @@ I'm a passionate programmer who loves exploring technology, solving challenging 
 
 ---
 
-<!--
-
 ## 🚀 Featured Projects
 
 Here are some projects I'm working on and exploring:
